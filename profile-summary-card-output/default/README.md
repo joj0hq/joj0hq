@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/joj0hq/joj0hq/main/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
