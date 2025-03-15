@@ -1,13 +1,19 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joj0hq&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=joj0hq&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joj0hq&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![](https://raw.githubusercontent.com/joj0hq/joj0hq/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/joj0hq/joj0hq/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/joj0hq/joj0hq/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/joj0hq/joj0hq/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/joj0hq/joj0hq/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=joj0hq" />
+</div>
 
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
+- 🧑‍💻 I'm a software engineer.
+- 📫 How to reach me: [X - @joj0hq](https://x.com/joj0hq)
+<br>
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go,gcp,docker,terraform,dart,flutter,firebase,react" />
+<br>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joj0hq&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joj0hq&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joj0hq&theme=gruvbox&utcOffset=9)
